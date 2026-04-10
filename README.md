@@ -60,7 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Ujjwal0022/Ujjwal0022/blob/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Ujjwal0022/Ujjwal0022/main/dist/github-contribution-grid-snake.gif)
 
 ---
 

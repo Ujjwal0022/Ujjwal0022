@@ -58,12 +58,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Ujjwal0022/Ujjwal0022/main/dist/github-contribution-grid-snake.gif)
-
----
-
 ## 🚀 DevOps Projects
 
 ### 🔥 AWS Static Website Hosting

@@ -93,9 +93,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: your-email@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-🌐 Portfolio: https://your-portfolio-link.com  
+📧 Email: ujjwal.kumararvind910@gmail.com
+
 
 ---
 

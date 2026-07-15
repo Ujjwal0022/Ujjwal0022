@@ -60,35 +60,23 @@
 
 ## 🚀 DevOps Projects
 
-### 🔥 AWS Static Website Hosting
-- Hosted website using S3 + CloudFront  
-- Enabled HTTPS and CDN  
+ ## Cloud-Native Three-Tier Application on Amazon EKS
 
-### 🔥 EC2 + Nginx using Terraform
-- Automated EC2 provisioning  
-- Configured web server  
+Built and deployed a production-style three-tier application on Amazon EKS using Kubernetes and Docker. Provisioned cloud infrastructure with Terraform and automated deployments through GitHub Actions. Integrated Kubernetes services, networking, and AWS resources to deliver a scalable, highly available, and cloud-native application.
 
-### 🔥 CI/CD Pipeline
-- Automated build & deployment  
-- Used GitHub Actions  
+## Retail Store CI/CD & GitOps Platform
 
-### 🔥 VPC + Security Groups
-- Designed secure AWS network  
-- Configured routing & firewall  
+Developed a cloud-native retail store application with an automated CI/CD pipeline and GitOps workflow. Leveraged Docker, Kubernetes, ArgoCD, and GitHub Actions to streamline application delivery and continuous deployment. Implemented infrastructure automation and Kubernetes orchestration to ensure reliable and scalable deployments. 
 
----
+## Production-Grade DevSecOps + GitOps Platform
 
-## 🎯 Choose Your Path
-
-👉 Projects → Check repositories  
-👉 Contact → Scroll below  
+Production-Grade DevSecOps + GitOps Platform is a cloud-native application deployment project that demonstrates an end-to-end DevSecOps and GitOps workflow. The project leverages Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, and ArgoCD to automate infrastructure provisioning, application deployment, and continuous delivery while following Infrastructure as Code (IaC), CI/CD, and GitOps best practices to build a scalable, secure, and production-ready platform.
 
 ---
 
 ## 📫 Contact Me
 
 📧 Email: ujjwal.kumararvind910@gmail.com
-
 
 ---
 

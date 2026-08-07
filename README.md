@@ -57,6 +57,16 @@
 ![Streak](https://streak-stats.demolab.com?user=Ujjwal0022&theme=tokyonight&hide_border=true)
 
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ujjwal0022/Ujjwal0022/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ujjwal0022/Ujjwal0022/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake"
+    src="https://raw.githubusercontent.com/Ujjwal0022/Ujjwal0022/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🚀 DevOps Projects
 
